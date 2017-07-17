@@ -81,4 +81,19 @@
 			<url>http://54.233.139.204:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
+	<repository>
+		
+		<id>releases</id>
+		<name>releases</name>
+		<url>http://13.126.170.102:8081/nexus/content/repositories/releases</url>
+		
+	</repository>
+	<snapshot repository>
+	
+		<id>snapshots</id>
+		<name>snapshots</name>
+		<url>http://13.126.170.102:8081/nexus/content/repositories/snapshots</url>
+		
+		</snapshot repository>
+	
 </project>
