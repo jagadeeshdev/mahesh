@@ -1,7 +1,0 @@
-staish
-dgit add .
-gi
-hi 
-brother
-hi
-guru
