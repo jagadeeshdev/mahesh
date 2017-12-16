@@ -4,7 +4,7 @@
 
   <groupId>com.companyname.bank</groupId>
   <artifactId>consumerbanking</artifactId>
-  <version>3.5</version>
+  <version>3.6</version>
   <packaging>jar</packaging>
 
   <name>consumerbanking</name>
